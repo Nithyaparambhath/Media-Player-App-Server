@@ -1,0 +1,82 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "React",
+      "url": "https://media.licdn.com/dms/image/D4E12AQFAnM7JNyFDQg/article-cover_image-shrink_720_1280/0/1708148800306?e=2147483647&v=beta&t=YVyEgQPbE7DUjDtMEQ5DBs_NUxWX_z6mWn72IqCH03Q",
+      "embededLink": "https://www.youtube.com/embed/CgkZ7MvWUAA"
+    },
+    {
+      "id": "5",
+      "caption": "Leo Movie",
+      "url": "https://www.m9.news/wp-content/uploads/2023/10/Leo-2023-Telugu-Movie-Review.jpg",
+      "embededLink": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "7",
+      "caption": "Angular",
+      "url": "https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo-1200-628.png?sfvrsn=bf64b1ee_3",
+      "embededLink": "https://www.youtube.com/embed/3qBXWUpoPHo"
+    },
+    {
+      "id": "2",
+      "caption": "Wordpress",
+      "url": "https://s.w.org/style/images/about/WordPress-logotype-alternative.png",
+      "embededLink": "https://www.youtube.com/embed/UT3No6nswz8"
+    }
+  ],
+  "categories": [
+    {
+      "categoryId": "1",
+      "categoryName": "Frontend Tools",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "React",
+          "url": "https://media.licdn.com/dms/image/D4E12AQFAnM7JNyFDQg/article-cover_image-shrink_720_1280/0/1708148800306?e=2147483647&v=beta&t=YVyEgQPbE7DUjDtMEQ5DBs_NUxWX_z6mWn72IqCH03Q",
+          "embededLink": "https://www.youtube.com/embed/CgkZ7MvWUAA"
+        },
+        {
+          "id": "7",
+          "caption": "Angular",
+          "url": "https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo-1200-628.png?sfvrsn=bf64b1ee_3",
+          "embededLink": "https://www.youtube.com/embed/3qBXWUpoPHo"
+        },
+        {
+          "id": "5",
+          "caption": "Leo Movie",
+          "url": "https://www.m9.news/wp-content/uploads/2023/10/Leo-2023-Telugu-Movie-Review.jpg",
+          "embededLink": "https://www.youtube.com/embed/Po3jStA673E"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryId": "2",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "Leo Movie",
+          "url": "https://www.m9.news/wp-content/uploads/2023/10/Leo-2023-Telugu-Movie-Review.jpg",
+          "embededLink": "https://www.youtube.com/embed/Po3jStA673E"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Leo Movie",
+      "embededLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "08/15/2024, 05:20:20 PM",
+      "id": 1
+    },
+    {
+      "caption": "React",
+      "embededLink": "https://www.youtube.com/embed/CgkZ7MvWUAA",
+      "timeStamp": "08/15/2024, 05:20:22 PM",
+      "id": 2
+    }
+  ]
+}
